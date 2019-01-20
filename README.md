@@ -1,2 +1,2 @@
-# hello-wordl
-This is a new repo for testing the git hub 
+# hello-world
+This is a new repo for testing the github 
